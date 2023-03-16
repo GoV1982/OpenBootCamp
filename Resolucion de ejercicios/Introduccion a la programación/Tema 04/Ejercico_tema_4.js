@@ -1,12 +1,11 @@
-function controlIf (numeroIf) {
-    if (numeroIf > 0) {
-        return "Es positivo";
-    }else if (numeroIf < 0){
-        return "Es negativo";
-    }else{
-        return "Es cero"
-    }
+if (numeroIf > 0) {
+    return "Es positivo";
+}else if (numeroIf < 0){
+    return "Es negativo";
+}else{
+    return "Es cero"
 }
+
 
 while (numeroWhile < 3){
     console.log("El número es: " + numeroWhile);
