@@ -6,7 +6,7 @@ if (numeroIf > 0) {
     return "Es cero"
 }
 
-
+let numeroWhile = 0;
 while (numeroWhile < 3){
     console.log("El número es: " + numeroWhile);
     numeroWhile++;
