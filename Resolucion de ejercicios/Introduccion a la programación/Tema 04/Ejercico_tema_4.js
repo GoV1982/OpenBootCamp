@@ -38,4 +38,5 @@ switch (estacion){
         break;
     default:
         console.log("No es ninguna estación");
+        break;
 }
