@@ -1,4 +1,4 @@
-package com.EjercicioTema1;
+package com.Ejercicios;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
